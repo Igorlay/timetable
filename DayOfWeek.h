@@ -1,0 +1,16 @@
+#ifndef TIMETABLE_DAYOFWEEK_H
+#define TIMETABLE_DAYOFWEEK_H
+
+#define DAYS_OF_WEEK 7
+
+enum DayOfWeek {
+    MONDAY = 1,
+    TUESDAY,
+    WEDNESDAY,
+    THURSDAY,
+    FRIDAY,
+    SATURDAY,
+    SUNDAY
+};
+
+#endif //TIMETABLE_DAYOFWEEK_H

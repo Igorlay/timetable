@@ -1,0 +1,11 @@
+#ifndef LESSONTYPE_H
+#define LESSONTYPE_H
+
+enum LESSON_TYPE {
+    LECTION,
+    PRACTICE,
+    LABORATORY,
+    SEMINAR,
+};
+
+#endif //LESSONTYPE_H
